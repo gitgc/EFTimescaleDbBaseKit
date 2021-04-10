@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionString": {
+    "TimescaleDB": "Host=localhost;Database=example;Username=example;Password=example"
+  }
+}
